@@ -60,3 +60,16 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
+
+## Github Trophies:
+
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=wyMinLwin&theme=nord&rank=-?&margin-w=15&margin-h=15)
+
+## Github Status:
+
+![Stats](https://github-readme-stats-wyml.vercel.app/api?username=wyMinLwin&show_icons=true&theme=nord&count_private=true)
+
+
+![Streak](https://github-readme-streak-stats-beta-eight-30.vercel.app/?user=wyMinLwin&theme=nord&count_private=true)
+
