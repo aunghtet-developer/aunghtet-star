@@ -10,13 +10,13 @@
 <p align="left"> <a href="https://twitter.com/aunghtet2024" target="blank"><img src="https://img.shields.io/twitter/follow/aunghtet2024?logo=twitter&style=for-the-badge" alt="aunghtet2024" /></a> </p>
 
 - 💼 Currently working as a **Software Developer at Fusion Solution Company**, Thailand.
-- [cite_start]🎓 Pursuing a **Master of Engineering (IT)**[cite: 14].
-- [cite_start]🚀 Expert in building **scalable e-commerce platforms** using **Laravel** and **Vue.js** with **SOLID principles**[cite: 27, 34].
-- [cite_start]🛠 Experienced in **CI/CD automation** (GitHub Actions), **Docker**, and **Cloud Deployment** (Digital Ocean)[cite: 31, 32, 41].
-- [cite_start]🧠 Previously an Engineering Intern at **Min Ai Team**, focused on AI-powered software research[cite: 35, 37].
-- [cite_start]💬 Ask me about **PHP (Laravel), C# (.NET), and secure system architecture**[cite: 5, 6].
-- [cite_start]📫 Reach me at: **aunghtetthu.dev@gmail.com**[cite: 2].
-- [cite_start]📄 Portfolio: **[aunghtet-dev.vercel.app](https://aunghtet-dev.vercel.app)**[cite: 2].
+- [cite_start]🎓 Pursuing a **Master of Engineering (IT)**. [cite: 14, 15]
+- [cite_start]🚀 Expert in building **scalable e-commerce platforms** using **Laravel** and **Vue.js** with **SOLID principles**. [cite: 27, 34]
+- [cite_start]🛠 Experienced in **CI/CD automation** (GitHub Actions), **Docker**, and **Cloud Deployment** (Digital Ocean). [cite: 31, 32, 41]
+- [cite_start]🧠 Previously an Engineering Intern at **Min Ai Team**, focused on AI-powered software research. [cite: 35, 37]
+- [cite_start]💬 Ask me about **PHP (Laravel), C# (.NET), and secure system architecture**. [cite: 5, 6]
+- [cite_start]📫 Reach me at: **aunghtetthu.dev@gmail.com**. [cite: 2]
+- [cite_start]📄 Portfolio: **[aunghtet-dev.vercel.app](https://aunghtet-dev.vercel.app)**. [cite: 2]
 
 ![AungHtet's GitHub stats](https://github-readme-stats.vercel.app/api?username=aunghtet-star&show_icons=true&theme=dark)
 
