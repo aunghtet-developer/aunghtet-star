@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aunghtet-star&label=Profile%20views&color=0e75b6&style=flat" alt="aunghtet-star" /> </p>
 
-- I’m currently working on **Fusion Solution Co., Ltd.**
-- How to reach me **aunghtetthu.dev@gmail.com/Aung.Htet.Thu@fusionsol.com**
-
-
 
 - 💼 Currently working as a **Software Developer at Fusion Solution Company**, Thailand.
 - 🎓 Pursuing a **Master of Engineering (IT)**. 
@@ -15,7 +11,7 @@
 - 🛠 Experienced in **CI/CD automation** (GitHub Actions), **Docker**, and **Cloud Deployment** (Digital Ocean). 
 - 🧠 Previously an Engineering Intern at **Min Ai Team**, focused on AI-powered software research. 
 - 💬 Ask me about **PHP (Laravel), C# (.NET), and secure system architecture**. 
-- 📫 Reach me at: **aunghtetthu.dev@gmail.com**.
+- 📫 Reach me at: **aunghtetthu.dev@gmail.com/Aung.Htet.Thu@fusionsol.com**
 - 📄 Portfolio: **[aunghtet-dev.vercel.app](https://aunghtet-dev.vercel.app)**. 
 
 ![AungHtet's GitHub stats](https://github-readme-stats.vercel.app/api?username=aunghtet-star&show_icons=true&theme=dark)
