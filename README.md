@@ -1,7 +1,7 @@
 ![Laravel](https://github.com/aunghtet-star/aunghtet-star/blob/main/laravel-featured.png)
 
 <h1 align="center">Hi 👋, I'm Aung Htet Thu</h1>
-<h3 align="center">A passionate web developer in myanmar</h3>
+<h3 align="center">Software Developer at Fusion Solution Company | Thailand 🇹🇭</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aunghtet-star&label=Profile%20views&color=0e75b6&style=flat" alt="aunghtet-star" /> </p>
 
@@ -9,14 +9,16 @@
 
 <p align="left"> <a href="https://twitter.com/aunghtet2024" target="blank"><img src="https://img.shields.io/twitter/follow/aunghtet2024?logo=twitter&style=for-the-badge" alt="aunghtet2024" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel and js**
+- 💼 Currently working as a **Software Developer at Fusion Solution Company**, Thailand.
+- [cite_start]🎓 Pursuing a **Master of Engineering (IT)**[cite: 14].
+- [cite_start]🚀 Expert in building **scalable e-commerce platforms** using **Laravel** and **Vue.js** with **SOLID principles**[cite: 27, 34].
+- [cite_start]🛠 Experienced in **CI/CD automation** (GitHub Actions), **Docker**, and **Cloud Deployment** (Digital Ocean)[cite: 31, 32, 41].
+- [cite_start]🧠 Previously an Engineering Intern at **Min Ai Team**, focused on AI-powered software research[cite: 35, 37].
+- [cite_start]💬 Ask me about **PHP (Laravel), C# (.NET), and secure system architecture**[cite: 5, 6].
+- [cite_start]📫 Reach me at: **aunghtetthu.dev@gmail.com**[cite: 2].
+- [cite_start]📄 Portfolio: **[aunghtet-dev.vercel.app](https://aunghtet-dev.vercel.app)**[cite: 2].
 
-- 💬 Ask me about **Laravel and Php**
-
-- 📫 How to reach me **aunghtet2024@gmail.com**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aunghtet-star&show_icons=true&theme=dark)
-
+![AungHtet's GitHub stats](https://github-readme-stats.vercel.app/api?username=aunghtet-star&show_icons=true&theme=dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +27,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.digitalocean.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="40" height="40"/> </a>
+</p>
