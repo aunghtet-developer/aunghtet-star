@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aung Htet</h1>
 <h3 align="center">Software Developer at Fusion Solution Company | Thailand 🇹🇭</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aunghtet-star&label=Profile%20views&color=0e75b6&style=flat" alt="aunghtet-star" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aunghtet-developer&label=Profile%20views&color=0e75b6&style=flat" alt="aunghtet-developer" /> </p>
 
 
 - 💼 Currently working as a **Software Developer at Fusion Solution Company**, Thailand.
@@ -24,9 +24,8 @@
 
 ## Get in Touch:
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/wyminlwin)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/golden_winddddd)
-[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://waiyanminlwin.com/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]([https://linkedin.com/in/wyminlwin](https://www.linkedin.com/in/aung-htet-69b280186/))
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://aunghtet-dev.vercel.app/)
 
 ## Tech Stacks:
 
